@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background: lightcoral;
+    width: 1900px;
+    height: 40px;
+}
+
+p{
+    color: blue;
+    background-color: aqua;
+    width: 1900px;
+}
+
+button{
+    color: red;
+    background-color: aquamarine;
+}
